@@ -1,0 +1,26 @@
+name: Update GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Generate Stats and Update Profile
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate README
+        uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_TOTAL_CODE_TIME: "False"
