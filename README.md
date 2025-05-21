@@ -57,7 +57,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adesayo-israel&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesayo-israel&layout=compact&theme=radical" width="47%" />
 </p>
 
 ---
