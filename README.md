@@ -4,14 +4,14 @@
 <h3 align="center">A Multi-Disciplinary Fullstack Developer with a Passion for Scalable Web Solutions</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bukunmiadesayo&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=adesayo-israel&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/bukunmiadesayo" target="_blank">
+  <a href="https://linkedin.com/in/adesayo-israel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:bukunmiadesayo@gmail.com">
+  <a href="mailto:adesayo-israel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yourportfolio.com">
@@ -51,12 +51,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bukunmiadesayo&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bukunmiadesayo&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adesayo-israel&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adesayo-israel&theme=radical" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bukunmiadesayo&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesayo-israel&layout=compact&theme=radical" width="47%" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 |--------|-------------|------------|------|
 | **Alpha Web Host** | News platform by industry sector | React, Node.js, MySQL | [Live Demo](https://yourprojecturl.com) |
 | **Squad Accounting** | Accounting & tax services platform | React, Nodemailer, Express | [Live Demo](https://squadaccounting.co.uk) |
-| **JS/TS Quiz App** | Interview quiz system for learners | JavaScript, TypeScript | [GitHub](https://github.com/bukunmiadesayo/quiz-app) |
+| **JS/TS Quiz App** | Interview quiz system for learners | JavaScript, TypeScript | [GitHub](https://github.com/adesayo-israel/quiz-app) |
 
 ---
 
