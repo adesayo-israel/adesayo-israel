@@ -1,26 +1,29 @@
-name: Update GitHub Profile Stats
+name: ⏱ WakaTime + GitHub Stats
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
+    - cron: '0 */6 * * *' # Every 6 hours
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Generate Stats and Update Profile
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: ⬇️ Checkout
         uses: actions/checkout@v3
 
-      - name: Generate README
+      - name: 🛠 Update README with WakaTime + Stats
         uses: anmol098/waka-readme-stats@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LOC_CHART: "False"
-          SHOW_PROFILE_VIEWS: "True"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_COMMIT: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_LOC_CHART: "True"
+          SHOW_PROJECTS: "True"
           SHOW_SHORT_INFO: "True"
-          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_TOTAL_CODE_TIME: "True"
