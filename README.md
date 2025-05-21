@@ -23,7 +23,6 @@
 
 ## 🧠 About Me
 
-- 💼 Currently working on: **Alpha Web Host** — Sector-based news aggregation.
 - 🧩 Background in **Computer Science** & **Electrical/Computer Engineering**
 - 💬 Ask me about:
   - React & TypeScript
