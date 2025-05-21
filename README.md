@@ -65,7 +65,7 @@
 
 | Project | Description | Tech Stack | Demo |
 |--------|-------------|------------|------|
-| **Alpha Web Host** | News platform by industry sector | React, Node.js, MySQL | [Live Demo](https://yourprojecturl.com) |
+| **Gleam Adornments Store** | E-Commerce Store | Laravel | [Live Demo](https://gleamadornments.com.ng) |
 | **Squad Accounting** | Accounting & tax services platform | React, Nodemailer, Express | [Live Demo](https://squadaccounting.co.uk) |
 | **JS/TS Quiz App** | Interview quiz system for learners | JavaScript, TypeScript | [GitHub](https://github.com/adesayo-israel/quiz-app) |
 
