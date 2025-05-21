@@ -47,6 +47,12 @@
 
 ---
 
+### 📌 Top Languages Pie Chart
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bukunmiadesayo&layout=pie&theme=tokyonight)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -56,6 +62,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesayo-israel&layout=compact&theme=radical" width="47%" />
+  
 </p>
 
 ---
