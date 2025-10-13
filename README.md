@@ -11,11 +11,8 @@
   <a href="https://linkedin.com/in/adesayo-israel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:adesayo-israel@gmail.com">
+  <a href="mailto:adesayobukunmiisrael@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -68,6 +65,9 @@
 | **Gleam Adornments Store** | E-Commerce Store | Laravel | [Live Demo](https://gleamadornments.com.ng) |
 | **Squad Accounting** | Accounting & tax services platform | React, Nodemailer, Express | [Live Demo](https://squadaccounting.co.uk) |
 | **JS/TS Quiz App** | Interview quiz system for learners | JavaScript, TypeScript | [GitHub](https://github.com/adesayo-israel/quiz-app) |
+| **Cedrus** | Interview quiz system for learners | JavaScript, TypeScript | [GitHub](https://cedrusaccounting.com.ng) |
+| **Farming Experts** | Interview quiz system for learners | JavaScript, TypeScript | [GitHub](https://farmingexpertsnetwork.co.uk) |
+| **Treasure Resource** | Interview quiz system for learners | JavaScript, TypeScript | [GitHub](https://https://treasureresource.co.uk/) |
 
 ---
 
