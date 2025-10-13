@@ -62,12 +62,12 @@
 
 | Project | Description | Tech Stack | Demo |
 |--------|-------------|------------|------|
-| **Gleam Adornments Store** | E-Commerce Store | Laravel | [Live Demo](https://gleamadornments.com.ng) |
-| **Squad Accounting** | Accounting & tax services platform | React, Nodemailer, Express | [Live Demo](https://squadaccounting.co.uk) |
+| **Gleam Adornments Store** | E-Commerce Store | Laravel | [Link](https://gleamadornments.com.ng) |
+| **Squad Accounting** | Accounting & tax services platform | React, Nodemailer, Express | [Link](https://squadaccounting.co.uk) |
 | **JS/TS Quiz App** | Interview quiz system for learners | JavaScript, TypeScript | [GitHub](https://github.com/adesayo-israel/quiz-app) |
-| **Cedrus** | Interview quiz system for learners | JavaScript, TypeScript | [GitHub](https://cedrusaccounting.com.ng) |
-| **Farming Experts** | Interview quiz system for learners | JavaScript, TypeScript | [GitHub](https://farmingexpertsnetwork.co.uk) |
-| **Treasure Resource** | Interview quiz system for learners | JavaScript, TypeScript | [GitHub](https://https://treasureresource.co.uk/) |
+| **Cedrus** | Interview quiz system for learners | JavaScript, TypeScript | [Link](https://cedrusaccounting.com.ng) |
+| **Farming Experts** | Interview quiz system for learners | JavaScript, TypeScript | [Link](https://farmingexpertsnetwork.co.uk) |
+| **Treasure Resource** | Interview quiz system for learners | JavaScript, TypeScript | [Link](https://https://treasureresource.co.uk/) |
 
 ---
 
